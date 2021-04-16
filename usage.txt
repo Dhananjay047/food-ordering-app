@@ -1,0 +1,9 @@
+This is a simple food ordering interface built on react 
+It contains 3 pages 
+    1 Home page  
+    2 Menu page  
+    3 My order page   
+
+Using it is simple click on menu or the bottom menu button ,
+The menu page will pop up then fill the input field and click on add button on the right of input field to add items
+after adding click on checkout it will lead you to your bill page.  
