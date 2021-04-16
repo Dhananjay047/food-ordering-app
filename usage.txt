@@ -11,3 +11,6 @@ after adding click on checkout it will lead you to your bill page.
 notes to remember This is only the front end and nothis is permanent.
 for eg. if you get to your bill page and if you refresh it all the items that are being displayed in your bill will be removed.
 similkarly if you refresh your menu page after adding items then your added items will be removed too.
+
+
+And yeah it is not mobile friendly the CSS code that makes the UI is PC based.
